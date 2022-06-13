@@ -1,0 +1,11 @@
+{
+  "name": "fail_successfully",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JUSTIVE/Fail_Successfully.git",
+  "author": "Ben <ben399399@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.7.3"
+  }
+}
